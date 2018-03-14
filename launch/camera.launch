@@ -15,7 +15,7 @@
  limitations under the License.
 -->
 <launch>
-  <arg name="camera" default="camera"/>
+  <arg name="camera" default="pmd"/>
   <arg name="serial_number" default="-"/>
   <arg name="on_at_startup" default="true"/>
   <arg name="use_case" default="-"/>
